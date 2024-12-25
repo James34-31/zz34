@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-// Keymap Author: Vespertine112 [https://github.com/Vespertine112]
+// Keymap Author: Vespertine1122 [https://github.com/Vespertine112]
 
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
