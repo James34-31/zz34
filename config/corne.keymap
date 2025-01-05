@@ -94,7 +94,7 @@
         compatible = "zmk,combos";
 
         alttab {
-            bindings = <&kp LA(TAB)>;
+            bindings = <&kp TAB>;
             key-positions = <37 12>;
             layers = <0>;
             timeout-ms = <1000>;
