@@ -98,7 +98,7 @@
             key-positions = <37 12>;
             layers = <0>;
             timeout-ms = <1000>;
-            require-prior-idle-ms = <1>;
+            require-prior-idle-ms = <50>;
             slow-release;
         };
     };
