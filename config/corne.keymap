@@ -96,6 +96,9 @@
         alttab {
             bindings = <&kp LA(TAB)>;
             key-positions = <37 12>;
+            layers = <0>;
+            timeout-ms = <300>;
+            require-prior-idle-ms = <10>;
         };
     };
 
