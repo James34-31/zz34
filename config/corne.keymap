@@ -97,7 +97,7 @@
             bindings = <&kp LA(TAB)>;
             key-positions = <37 12>;
             layers = <0>;
-            timeout-ms = <300>;
+            timeout-ms = <1000>;
             require-prior-idle-ms = <10>;
         };
     };
